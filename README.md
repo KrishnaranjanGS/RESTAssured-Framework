@@ -6,9 +6,9 @@ This project is a REST API automation framework built using Rest Assured, TestNG
 It follows a basic Page Object Model (POM)-style structure for API testing.
 
 **Tech Stack**
-Java
-REST Assured
-TestNG
+Java,
+REST Assured,
+TestNG,
 Maven
 
 **Project Structure**
