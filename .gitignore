@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Config files
+**/config.properties
+
+# Logs
+*.log
+
+# Test reports
+test-output/
