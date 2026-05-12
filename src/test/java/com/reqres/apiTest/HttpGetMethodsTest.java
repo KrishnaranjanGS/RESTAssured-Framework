@@ -4,11 +4,12 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.reqres.apis.GetMethodApi;
+import com.reqres.base.BaseTest;
 import com.reqres.constants.ReqresConstants;
 
 import io.restassured.response.Response;
 
-public class HttpGetMethodsTest {
+public class HttpGetMethodsTest extends BaseTest{
 
 	GetMethodApi getApi;
 	SoftAssert softAssert;
